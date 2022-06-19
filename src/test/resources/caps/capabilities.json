@@ -1,0 +1,19 @@
+{
+  
+  "android": {
+    "platformName": "Android",
+    "automationName": "UiAutomator2",
+    "deviceName": "emulator-5554",
+    "platformVersion": "11",
+    "app": "src/test/resources/apps/Goodreads_v2.37.0.apk",
+    "appWaitActivity": "*",
+    "appPackage": "com.goodreads"
+  },
+  "iOS": {
+    "platformName": "iOS",
+    "automationName": "XCUITest",
+    "deviceName": "",
+    "platformVersion": "",
+    "app": ""
+  }
+}
