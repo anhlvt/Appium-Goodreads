@@ -12,7 +12,7 @@
   "iOS": {
     "platformName": "iOS",
     "automationName": "XCUITest",
-    "deviceName": "",
+    "deviceName": "iPhone 11",
     "platformVersion": "",
     "app": ""
   }
